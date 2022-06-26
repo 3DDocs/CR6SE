@@ -6,4 +6,4 @@ coverY: 0
 
 ## Welcome aboard!
 
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+Welcome to the 3DDocs wiki for the CR6SE! Here you'll find everything you need to know about the Modding and more.
